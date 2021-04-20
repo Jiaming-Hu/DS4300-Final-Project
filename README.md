@@ -47,7 +47,7 @@ This algorithm allows us to make suggestions on products based on users’ age. 
 
 
 
-4. Contribution:
+## 4. Contribution:
 
 Kunhan Wu: Write user based collaborative filtering algorithm, create database, fix the relationship and data loading error.
 
